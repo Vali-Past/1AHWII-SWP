@@ -1,0 +1,7 @@
+h1 { /* Alle h1-Elemente stylen */
+     /* Unteren Rand 1px breit, strichliert und schwarz zeichen */
+    border-bottom: 1px dashed black;
+    /* Kleinbuchstaben als kleine Großbuchstaben darstellen */
+    font-variant: small-caps;
+    color: steelblue;
+}
